@@ -1,0 +1,3 @@
+# Anteprima per la validazione dei testi: le pagine hanno noindex.
+User-agent: *
+Allow: /
